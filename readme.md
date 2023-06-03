@@ -3,3 +3,5 @@ According to the definition of the Standardization Law of the People's Republic 
 However, standard knowledge has not formed structured information, and standard datasets are scarce.
 Under the guidance of people, especially experts, we have constructed the first dataset for standard entity recognition, 
 with a total of **1000 sentences**, including **7 relationship types**.
+## Draft_ner_model
+Waiting for upload！！
