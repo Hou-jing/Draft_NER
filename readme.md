@@ -4,4 +4,5 @@ However, standard knowledge has not formed structured information, and standard 
 Under the guidance of people, especially experts, we have constructed the first dataset for standard entity recognition, 
 with a total of **1000 sentences**, including **7 relationship types**.
 ## Draft_ner_model
-Waiting for upload！！
+We have uploaded the model code to the cloud disk. Welcome to download and use it.
+Link: https://www.aliyundrive.com/s/BQLVBJe2CKX
